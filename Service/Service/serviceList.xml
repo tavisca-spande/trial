@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Services>
+  <Service>
+    <Id>1</Id>
+    <Name>Organization</Name>
+  </Service>
+  <Service>
+    <Id>2</Id>
+    <Name>User</Name>
+  </Service>
+  <Service>
+    <Id>3</Id>
+    <Name>Application</Name>
+  </Service>
+  <Service>
+    <Id>4</Id>
+    <Name>Directory</Name>
+  </Service>
+</Services>
